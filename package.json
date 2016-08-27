@@ -17,5 +17,6 @@
     "shelljs": "~0.1.2",
     "semver": "~1.1.4",
     "grunt-contrib-copy": "~0.4.1"
-  }
+  },
+  "main": "dist/angular-tree-repeat.js"
 }
